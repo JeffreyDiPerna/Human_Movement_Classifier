@@ -1,0 +1,30 @@
+# IDE files
+.idea/
+workspace.xml
+shelf/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.pkl
+*.zip
+*.h5
+*.hdf5
+*.xls*
+*.xlsx
+
+# OS-specific
+.DS_Store
+Thumbs.db
